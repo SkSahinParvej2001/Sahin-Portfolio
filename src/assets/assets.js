@@ -122,7 +122,7 @@ export const projects = [
     tech: ["React.js", "Tailwind CSS", "Framer Motion"],
     icons: [FaReact, FaCloud],
     demo: "#",
-    code: "",
+    code: "https://github.com/SkSahinParvej2001/Sahin-Portfolio.git",
   },
 ];
 
