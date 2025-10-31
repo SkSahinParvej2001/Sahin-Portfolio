@@ -19,4 +19,4 @@ My personal portfolio website built with **React** and **Tailwind CSS** to showc
 
 ## 🧑‍💻 Author
 **Sk Sahin Parvej**  
-[GitHub](https://github.com/SkSahinParvej) · [Email](mailto:sahinparvej2001@gmail.com)
+[GitHub](https://github.com/SkSahinParvej2001) · [Email](mailto:sahinparvej2001@gmail.com)
